@@ -2,7 +2,7 @@
 
 Meu nome é Adriano,Estou estudando na Alura,Estou me desenvolvendo na linguagem JavaScript
 
-Torcedor do São Paulo F.C
+Torcedor do São Paulo F.C 
 
 Venho utilizar esse espaço para compartilhar meus projetos desenvolvidos
 
